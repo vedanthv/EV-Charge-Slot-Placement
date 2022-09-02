@@ -20,3 +20,5 @@ simultaneously and has immense implications for the adoption of EVs, including:
 2. optimal utilisation of EV charging points,
 3. minimal travel time and waiting time for EV owners.
 
+Read more about the problem statement and the data [here](https://github.com/vedanthv/EV-Charge-Slot-Prediction/blob/main/Details_Doc.pdf)
+
